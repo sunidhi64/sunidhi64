@@ -5,7 +5,6 @@
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://sunidhi-sharma2.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/sunidhi-sharma-81403a75/)
-  - 
 
 [![Sunidhi's github stats](https://github-readme-stats.vercel.app/api?username=sunidhi64&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
