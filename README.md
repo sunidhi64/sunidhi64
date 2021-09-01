@@ -1,4 +1,10 @@
 ### Hi there 👋
+- :zap: I love programming, coding, app development and books
+- 🌱 I’m addicted to learning and growing every day
+- 🔭 I am currently working on padawan-wallet which is a bitcoin wallet trainer.
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://sunidhi-sharma2.medium.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/sunidhi-sharma-81403a75/)
 
 <!--
 **sunidhi64/sunidhi64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
