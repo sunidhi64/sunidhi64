@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :zap: I love programming, coding, app development and books
 - 🌱 I’m addicted to learning and growing every day
-- 🔭 I am currently working on padawan-wallet which is a bitcoin wallet trainer.
+- 🔭 I have worked on padawan-wallet which is a bitcoin wallet trainer.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://sunidhi-sharma2.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/sunidhi-sharma-81403a75/)
